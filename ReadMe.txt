@@ -55,16 +55,16 @@ Existing Users: Can login into app using following credentials
 Valid User Data: Can create new user Account using following id's
 
 Professor
-1. 817000111 - Roger Whitney
-2. 817000222 - Alan Riggins
-3. 817000333 - Steve Price
-4. 817000444 - Tim Bochard
+1. 817000111
+2. 817000222
+3. 817000333
+4. 817000444
 
 Student
-1. 817670809 - Bhavana Vennamaneni
-2. 817111222 - Vinuthna Vennamaneni
-3. 817111333 - Vidya Narayanan
-4. 817111444 - Kiran Sidulwar
+1. 817670809
+2. 817111222
+3. 817111333
+4. 817111444
 
 
 
