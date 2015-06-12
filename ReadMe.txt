@@ -1,4 +1,3 @@
-##Course Portal
 
 BY: Bhavana Vennamaneni
 
