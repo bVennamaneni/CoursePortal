@@ -5,7 +5,7 @@ PROJECT: Course Portal
 
 DESCRIPTION
 
-This application is developed for both professor and students in different versions. 
+This is an Android application, developed for both professor and students in different versions to access the enrolled course details and allows to post/view grades and announcements. 
 
 Functionality in Professor version:
 1. Browse through related courses(About Course, Enrolled Students, Announcements)
@@ -66,7 +66,3 @@ Student
 2. 817111222
 3. 817111333
 4. 817111444
-
-
-
- 
